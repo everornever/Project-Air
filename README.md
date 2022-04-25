@@ -14,27 +14,27 @@ The following parts are needed for the construction of the project:
 |[Grove Dust Sensor](https://www.seeedstudio.com/Grove-Dust-Sensor-PPD42NS.html) |12,99€|- The Grove Dust Sensor, which can detect not only cigarette smoke but also house dust
 |[Grove Temp. & Humi Sensor](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html) | 6,50€|- Measures the temperature and humidity|
 |[Grove OLED Display](https://www.seeedstudio.com/Grove-OLED-Display-0-96-SSD1315-p-4294.html) | 5,50€|- Displays all measured values|
-|**Summe** |**69,07€** |
+|**Summ** |**69,07€** |
 
-# Bauplan Skizze
+# Construction plan sketch
 
-Dieser Bauplan wurde nicht genau so umgesetzt, da sich Komponenten geändert haben und bei der From des Gehäuses noch experimentiert wurde.
+This construction plan was not implemented exactly as it is, since components have changed and experimentation was still going on with the from of the housing.
 
 <img src="Assets/Notiz_07.01.2022.jpg" width="800" height="1000">
 
-# Step 1. Funktionstest
+# Step 1. Function test
 
-Alle Komponenten werden auf ihre Funktionstüchtigkeit geprüft und jeder Sensor wird einzelnd getestet
+All components are tested for functionality and each sensor is tested individually.
 
 <img src="Assets/IMG_5740.JPG" width="600" height="800">
 
-# Step 2. Code anpassung
+# Step 2. Code customization
 
-Alle Komponenten müssen nun in einem Projekt zusammen angesteuert weden und mit Logik verbunden werden. Dazu mehr im [Code](/Code) Ordner
+All components must now be controlled together in a project and connected with logic. More about this in the [Code](/Code) folder
 
-# Step 3. Gehäuse bauen
+# Step 3. Build housing
 
-Wenn alles soweit funktioniert muss das Gehäuse gebaut werden. Dazu werden Plexi Glaß Platten geschnitten und es müssen entsprechend Löcher für die Kabel gelassen werden.
+If everything works so far, the housing must be built. For this purpose Plexi glass plates are cut and holes must be left for the cables.
 
 ## Prototyp 1.0:
 
