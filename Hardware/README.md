@@ -1,21 +1,16 @@
 # Hardware
-
-Folgende Teile werden benötigt für den Bau des Projektes:
+The following parts are needed for the construction of the project:
 
 |Bauteile        |Kosten| Beschreibung |                      
 |----------------|----------------|----------------|
-|[Seed Studio Lotus](https://www.seeedstudio.com/Seeeduino-Lotus-ATMega328-Board-with-Grove-Interface-p-1942.html)|20,00€|- Das Lotus wird für die Programmierung benötigt und hat mehrere Grove Connecter eingebaut |
-|Plexiglaß| 0,00€|- Plexiglaß kann beliebig verwendet werden um das Gehäuse zu bauen|
-|[M3 Messing Gewinde Bolzen](https://www.amazon.de/gp/product/B0825XY6VD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)| 11,09€|- Wird benötigt um die Plexi Glaß Scheiben zu verbinden|
-|[Grove Air Quality Sensor](https://www.seeedstudio.com/Grove-Air-Quality-Sensor-v1-3-Arduino-Compatible.html) |12,99€|- Der Grove Air Quality Sensor kann Kohlenmonoxid, Alkohol, Aceton, Farbverdünner, Formaldehyd und andere leicht toxische Gase erkennen|
-|[Grove Dust Sensor](https://www.seeedstudio.com/Grove-Dust-Sensor-PPD42NS.html) |12,99€|- Der Grove Dust Sensor, der nicht nur Zigarettenrauch, sondern auch Hausstaub erkennen kann
-|[Grove Temp. & Humi Sensor](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html) | 6,50€|- Misst die Temperatur und Luftfeutigkeit|
-|[Grove OLED Display](https://www.seeedstudio.com/Grove-OLED-Display-0-96-SSD1315-p-4294.html) | 5,50€|- Zeigt alle Messwerte an|
+|[Seed Studio Lotus](https://www.seeedstudio.com/Seeeduino-Lotus-ATMega328-Board-with-Grove-Interface-p-1942.html)|20,00€|- The Lotus is needed for programming and has several Grove Connecter built in |
+|Plexiglaß| 0,00€|- Plexiglass can be used arbitrarily to build the housing|
+|[M3 Messing Gewinde Bolzen](https://www.amazon.de/gp/product/B0825XY6VD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)| 11,09€|- Is needed to connect the plexiglass discs|
+|[Grove Air Quality Sensor](https://www.seeedstudio.com/Grove-Air-Quality-Sensor-v1-3-Arduino-Compatible.html) |12,99€|- The Grove Air Quality Sensor can detect carbon monoxide, alcohol, acetone, paint thinner, formaldehyde and other mildly toxic gases|
+|[Grove Dust Sensor](https://www.seeedstudio.com/Grove-Dust-Sensor-PPD42NS.html) |12,99€|- The Grove Dust Sensor, which can detect not only cigarette smoke but also house dust
+|[Grove Temp. & Humi Sensor](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html) | 6,50€|- Measures the temperature and humidity|
+|[Grove OLED Display](https://www.seeedstudio.com/Grove-OLED-Display-0-96-SSD1315-p-4294.html) | 5,50€|- Displays all measured values|
 |**Summe** |**69,07€** |
-
-# Schaltplan
-
-**BILD**
 
 # Bauplan Skizze
 
