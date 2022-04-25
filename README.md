@@ -1,8 +1,8 @@
 # Projekt Air
 
-This project involves a compact cube made of various components to measure and display indoor air quality. More details will be provided in the different topics:
+This project involves a compact cube made of various components to measure and display indoor air quality.
 
-# Hardware
+## Hardware
 The following parts are needed for the construction of the project:
 
 |Bauteile        |Kosten| Beschreibung |                      
